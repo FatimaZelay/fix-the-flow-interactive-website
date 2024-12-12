@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Purchase Tickets</title>
+
+    <link href="https://db.onlinewebfonts.com/c/93a467f70a3e7b27a9b52a686f351dbe?family=DIN+Next+LT+Pro+Regular" rel="stylesheet">
+    <link rel="stylesheet" href="qatarmuseums.css">
+    <link rel="assets" href="assets/logo.png">
+    <link rel="HOME" href="index.html">
+    
+    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qatar Museums - Book Your Tickets</title>
+    <style>
+        
+        :root {
+            color-scheme: light dark;
+        }
+
+        body {
+            margin: 0;
+            font-family: DIN Next LT Pro Regular;
+        }
+        a {
+            text-decoration: none;
+        }
+        
+
+        /*Font import*/
+
+  
+        /* Navbar */
+        nav {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px 20px;
+            background-color: white;
+            border-bottom: 2px solid black;
+        }
+        .logo-container {
+            display: flex;
+            align-items: center;
+        }
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .logo img {
+            height: 50px;
+        }
+        .logo-text {
+            font-size: 16px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        .menu-items {
+            display: flex;
+            align-items: center;
+            gap: 25px;
+        }
+        .menu-items a {
+            font-size: 14px;
+            color: black;
+            font-weight: bold;
+        }
+        .menu-items a.highlight {
+            background-color:yellow;
+            padding: 5px 10px;
+            border: 2px solid black;
+        }
+        .menu-items .icon {
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        /* Main */
+        main {
+            padding: 20px;
+        }
+        .form-container {
+            max-width: 600px;
+            margin: 20px auto;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+        input, select, button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            background-color:yellow;
+            border: 2px solid #000;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color:yellow;
+        }
+
+     .button {
+    position: relative;
+    background: var(--highlight-secondary);
+    color: var(--secondary);
+    border-color: var(--secondary);
+  }
+  
+  .shake {
+  
+    animation-name: shake;
+    animation-duration: 0.1s;
+    animation-iteration-count: 5;
+  }
+  
+  @keyframes shake {
+    0% {
+      transform: translateX(20px);
+    }
+  
+    30% {
+      transform: translateX(0px);
+    }
+  
+    50% {
+      transform: translateX(-20px);
+    }
+  
+    60% {
+      transform: translateX(0px);
+    }
+  
+    70% {
+      transform: translateX(20px);
+    }
+  }
+        .radio-group {
+            margin-top: 10px;
+        }
+        .radio-group input {
+            width: auto;
+            margin-right: 10px;
+        }
+
+
+a:focus, button:focus {
+	outline: 2px solid #f679a1;
+	outline-offset: 2px;
+	border-radius: 4px;
+  }
+
+
+    </style>
+</head>
+<body>
+
+    <script type="module">
+        // Stap 1: zoek de input en stop die in een variabele
+        let inputElement = document.querySelector('input');
+        
+        // Stap 2: luister naar het invalid event, en wacht tot dat afgevuurd wordt..
+        inputElement.addEventListener('invalid', function(ev) {
+        
+          // Stap 3: pas de tekst in de validatiemelding aan
+          inputElement.setCustomValidity('Oh oh... you have to fill this field in');
+        
+        });
+
+        </script>
+
+
+<script type="module">
+
+// Stap 1: querySelector
+// let bibberLink = document.querySelector...
+{
+let interaction = document.querySelector('button')
+
+// Stap 2: addEventListener
+// bibberLink.addEventListener...
+
+interaction.addEventListener('click', shakeIt)
+
+function shakeIt() {
+// Stap 3: (Callback functie met) classList (.toggle(), .add(), etc.)
+// bibberLink.classList.toggle...
+
+
+interaction.classList.toggle('shake')
+
+}
+
+}
+
+</script>
+
+
+    <body>
+ <head>  
+    
+<!-- Navbar -->
+<nav>
+    <div class="logo-container">
+        <div class="logo">
+            <img src="assets/logo.png" alt="Qatar Museums Logo">
+            <span class="logo-text"></span>
+        </div>
+    </div>
+
+    <div class="menu-items">
+
+        <a href="index.html">HOME</a>
+        <a href="https://qm.org.qa/en/stories/">قصصنا<br>STORIES</a>
+        <a href="https://qm.org.qa/en/calendar/">الفعاليات<br>WHAT'S ON</a>
+        <a href="https://qm.org.qa/en/visit/">زيارة<br>VISIT</a>
+        <a href="#tickets" class="highlight">تذاكر<br>TICKETS</a>
+        <a href="https://qm.org.qa/en/">VENUES</a>
+        <a href="https://qm.org.qa/ar/">العربية</a>
+        <a href="https://qm.org.qa/en/">☰ MENU</a>
+    
+    </div>
+</nav>
+
+<!-- Main Content -->
+<main>
+    <h1>TICKETS</h1>
+    <div class="form-container">
+        <form action="/submit-ticket" method="POST">
+            <fieldset>
+                <legend>Select Tickets</legend>
+                <div class="radio-group">
+                    
+                    <label>
+                        <input type="radio" name="ticket" value="museums-and-outdoor-spaces">
+                        National Museum of Qatar
+                    </label>
+                    <label>
+                        <input type="radio" name="ticket" value="museums-and-outdoor-spaces">
+                        Museum of Islamic Art
+                    </label>
+                    <label>
+                        <input type="radio" name="ticket" value="museums-and-outdoor-spaces">
+                        Arab Museum of Modern Art
+                    </label>
+                    <label>
+                        <input type="radio" name="ticket" value="museums-and-outdoor-spaces">
+                        Al Zubarah
+                    </label>
+                    <label>
+                        <input type="radio" name="ticket" value="creative-hubs" required>
+                        Chaumet & Nature
+                    </label>
+                    <label>
+                        <input type="radio" name="ticket" value="creative-hubs" required>
+                        ELLSWORTH KELLY AT 100
+                    </label>
+                    <label>
+                        <input type="radio" name="ticket" value="creative-hubs" required>
+                        Air 8: A House Overlooking The World
+                    </label>
+
+                </div>
+            </fieldset>
+
+            <label for="pick-a-date">Pick a Date</label>
+            <input type="date" id="pick-a-date" name="pick-a-date" required>
+
+            <label for="time">Choose Time:</label>
+            <input type="time" id="time" name="time" required>
+
+            <fieldset>
+                <legend>Your Information</legend>
+                <label for="first-name">First Name *</label>
+                <input type="text" id="first-name" name="first-name" required>
+
+                <label for="last-name">Last Name *</label>
+                <input type="text" id="last-name" name="last-name" required>
+
+                <label for="email">Email *</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="visitor-type">Type of Visitor *</label>
+                <select id="visitor-type" name="visitor-type" required>
+                    <option value="" disabled selected>Please make a selection</option>
+                    <option value="resident">Adult Resident</option>
+                    <option value="tourist">Adult Non-Resident</option>
+                    <option value="resident">Child Resident</option>
+                    <option value="tourist">Child Non-Resident</option>
+                </select>
+
+                <label for="nationality">Nationality</label>
+                <input type="text" id="nationality" name="nationality" value="Qatar">
+
+                <label for="phone-number">Phone Number</label>
+                <input type="tel" id="phone-number" name="phone-number">
+            </fieldset>
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</main>
+
+</body>
+</html>
+
