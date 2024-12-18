@@ -33,7 +33,7 @@ Ook heb ik voor een extratje toegevoegd. Bij het niet volledig invullen van de v
 https://fatimazelay.github.io/fix-the-flow-interactive-website/
 
 ## Kenmerken
-Om de submit button werkend te krijgen heb ik java script gebruikt. en Css
+Om de submit button werkend te krijgen heb ik java script gebruikt en Css
 
 ## Bronnen
 https://fatimazelay.github.io/fix-the-flow-interactive-website/
