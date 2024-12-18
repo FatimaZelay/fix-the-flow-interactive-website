@@ -1,10 +1,10 @@
 
-Ontwerp en maak een interactieve website voor een opdrachtgever.
+
 
 De instructie vind je in: [INSTRUCTIONS.md](https://github.com/fdnd-task/fix-the-flow-interactive-website/blob/main/docs/INSTRUCTIONS.md)
 
 # Project van Qatar Museums opdrachtgever Fabrique
-
+Ontwerp en maak een interactieve website voor een opdrachtgever.
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
