@@ -25,8 +25,9 @@ Daarna ben ik verder gegaan met het ontwepen van de micro-interaction. Ik heb da
 
 r<img width="637" alt="Screenshot 2024-12-18 at 11 48 22" src="https://github.com/user-attachments/assets/dae932f6-573e-43ed-880f-00f65046f18b" />
 
-<!-- Voeg een mooie poster visual toe 📸 -->
+Ook heb ik voor een extratje toegevoegd. Bij het niet volledig invullen van de vereiste velden.
 
+<img width="392" alt="Screenshot 2024-12-18 at 12 00 42" src="https://github.com/user-attachments/assets/1ed6701c-938a-4201-94b4-6d7c6b48b9c5" />
 
 <!-- Voeg een link toe naar Github Pages 🌐-->
 https://fatimazelay.github.io/fix-the-flow-interactive-website/
