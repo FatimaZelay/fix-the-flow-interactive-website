@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/809ad2de-11d7-4a6b-8438-32884647aa2e
 
 
 
-Ook heb ik voor een extratje toegevoegd. Bij het niet volledig invullen van de vereiste velden.
+Mijn tweede interactie > Bij het niet volledig invullen van de vereiste velden.
 
 <img width="392" alt="Screenshot 2024-12-18 at 12 00 42" src="https://github.com/user-attachments/assets/1ed6701c-938a-4201-94b4-6d7c6b48b9c5" />
 
