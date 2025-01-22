@@ -15,7 +15,7 @@ Mijn project ziet er als volgt uit:
 
 <img width="737" alt="Screenshot 2024-12-18 at 11 38 18" src="https://github.com/user-attachments/assets/f8389dfa-3a75-4380-bf6b-2d53c9fdc792" />
 
-Ik heb tijdens deze sprint gewerkt aan de tickets pagina, ook heb ik een interactie bij gevoegd bij de submit button. Dit is mijn feedforward voor de interacite 
+Ik heb tijdens deze sprint gewerkt aan de tickets pagina, ook heb ik een interactie bij gevoegd bij de submit button & een input tekst bij het niet invullen van alle vereiste velden. 
  
 
 Ik heb 3 ontwerpen gemaakt en heb uiteindelijk de eerste uitgekozen.
@@ -28,6 +28,11 @@ r<img width="637" alt="Screenshot 2024-12-18 at 11 48 22" src="https://github.co
 
 Hieronder zie je hoe de micro-interactie werkt.
 
+Dit is de schets van mijn Feedback & Feedforward:
+
+
+<img width="621" alt="Screenshot 2025-01-22 at 12 50 34" src="https://github.com/user-attachments/assets/0c32d27a-f994-46fb-acf7-d0e91be35008" />
+
 
 https://github.com/user-attachments/assets/809ad2de-11d7-4a6b-8438-32884647aa2e
 
@@ -35,6 +40,11 @@ https://github.com/user-attachments/assets/809ad2de-11d7-4a6b-8438-32884647aa2e
 
 Mijn tweede interactie > Bij het niet volledig invullen van de vereiste velden.
 
+### Feedback
+<img width="954" alt="Screenshot 2025-01-22 at 19 49 51" src="https://github.com/user-attachments/assets/6f4d92bb-6567-4a58-a447-0f69ea19fca8" />
+
+
+### Feedforward
 <img width="392" alt="Screenshot 2024-12-18 at 12 00 42" src="https://github.com/user-attachments/assets/1ed6701c-938a-4201-94b4-6d7c6b48b9c5" />
 
 <!-- Voeg een link toe naar Github Pages 🌐-->
