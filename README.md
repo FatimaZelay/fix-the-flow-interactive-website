@@ -34,7 +34,6 @@ Dit is de schets van mijn Feedback & Feedforward:
 
 <img width="621" alt="Screenshot 2025-01-22 at 12 50 34" src="https://github.com/user-attachments/assets/0c32d27a-f994-46fb-acf7-d0e91be35008" />
 
-https://www.figma.com/design/4oeiUHuLc5XYdQn2NpjhqL/TICKETS-PAGE?node-id=0-1&t=bDtCfiOk5NmXHy7c-1
 
 https://github.com/user-attachments/assets/809ad2de-11d7-4a6b-8438-32884647aa2e
 
